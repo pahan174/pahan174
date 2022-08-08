@@ -7,7 +7,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=pahan174&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Всем привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 	</h1>
 </div>
@@ -43,3 +43,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pahan174&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pahan174&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
